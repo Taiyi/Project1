@@ -23,4 +23,4 @@ fresh_tomatoes.html
 ============================================================
 Instructions
 ============================================================
-Run by opening fresh_tomatoes.html
+Run by running entertainment_center.py in python shell.

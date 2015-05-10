@@ -1,8 +1,6 @@
 import webbrowser
 import os
 import re
-import media
-import entertainment_center
 
 
 # Styles and scripting for the page
